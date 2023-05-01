@@ -1,13 +1,154 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+  background-color: bisque;
+  overflow-y: auto;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#navlist {
+  background-color:rgb(46, 38, 38);
+  width: 100%;
 }
+
+/* styling navlist anchor element */
+.nav-item a {
+  float:left;
+  display: block;
+  color :  bisque;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bolder;
+  justify-content: center;
+}
+
+.navlist-right{
+  float:right;
+}
+
+.account{
+  display: inline;
+  margin: 8px;
+
+}
+
+.account a{
+  color :  bisque;
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none;
+  margin-top: 18px;
+  font-size: small;
+}
+
+.carousel  .carousel-item{
+  place-items: center;
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 50px;
+  color: white;
+}
+
+h1{
+  place-items: center;
+  color: rgb(46, 38, 38);
+  margin-left: 35%;
+  margin-top: 15px;
+}
+
+img{
+  border-radius: 20px;
+}
+
+.carousel-inner {
+  max-width: 1000px;
+  border-radius: 25px;
+}
+
+.account a::before{
+  content: "|";
+}
+
+.register{
+  padding-left: 0px;
+  text-align: center;
+  margin: 18px;
+}
+
+/* hover effect of navlist anchor element */
+#navlist a:hover, a:active {
+  color:goldenrod;
+}
+
+/* styling search bar */
+.search input[type=text]{
+  width:300px;
+  background-color : bisque;
+  height:25px;
+  border-radius:25px;
+  border: none;
+}
+
+.search{
+  float:right;
+  margin-top: 18px;
+  width: fit-content;
+}
+
+.search button{
+  background-color:rgb(46, 38, 38);
+  color :  bisque;
+  float: right;
+  padding: 5px 10px;
+  margin-right: 16px;
+  font-size: 12px;
+  border: none;
+  cursor: pointer;
+}
+
+.nav{
+  width: 60%;
+}
+
+.nav-item{
+  width:50%;
+}
+
+.nav-link{
+  justify-content: center;
+  text-align: center;
+  margin-left: 40px;
+}
+
+h5{
+  padding-bottom: 25px;
+  color:whitesmoke;
+  font-weight:bolder;
+  font-size: larger;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cards{
+  margin-left: 50%;
+  text-align: center;
+  background-color: rgb(46, 38, 38);
+}
+
+.card-container{
+  text-align: center;
+  background-color: beige;
+}
+
+h6{
+  padding-top: 10px;
+  color: rgb(46, 38, 38);
+  font-weight:bolder;
+  font-size: larger;
+  display: flex;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span{
+  font-size: small;
+}
+
