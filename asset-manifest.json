@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/seegypt/static/css/main.fda86d57.css",
+    "main.js": "/seegypt/static/js/main.96ebba6f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/seegypt/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/c25.jpg": "/seegypt/static/media/c25.0d80aa95c81c88a15ec4.jpg",
+    "static/media/c3.jpg": "/seegypt/static/media/c3.9d24f67c447b6e0d2723.jpg",
+    "static/media/c2.jpg": "/seegypt/static/media/c2.06593fb72d3019d7e2a2.jpg",
+    "static/media/c1.jpg": "/seegypt/static/media/c1.a6fdf0a489af3cb6b0e8.jpg",
+    "static/media/c9.jpg": "/seegypt/static/media/c9.9a6262689efe3f285a5e.jpg",
+    "static/media/c23.jpg": "/seegypt/static/media/c23.db90147957e9bbc99dd2.jpg",
+    "static/media/c11.jpg": "/seegypt/static/media/c11.0fe7b2a886d06d97d360.jpg",
+    "static/media/c10.jpg": "/seegypt/static/media/c10.9e26958247f077329deb.jpg",
+    "static/media/c13.jpg": "/seegypt/static/media/c13.f2d3cec86127cedc9b1f.jpg",
+    "static/media/c14.jpg": "/seegypt/static/media/c14.1bd228c9a3c7a116752c.jpg",
+    "static/media/c17.jpg": "/seegypt/static/media/c17.8dff5e1775c0e76612e3.jpg",
+    "static/media/c20.jpg": "/seegypt/static/media/c20.d195739fcebfd8b11c04.jpg",
+    "static/media/c4.jpg": "/seegypt/static/media/c4.3e744e4c130845eed6c6.jpg",
+    "static/media/c6.jpg": "/seegypt/static/media/c6.721152fb19383d0c1e85.jpg",
+    "static/media/c19.jpg": "/seegypt/static/media/c19.c598827f73f2ec84e92f.jpg",
+    "static/media/c5.jpg": "/seegypt/static/media/c5.3ede99394821404d82a4.jpg",
+    "static/media/c21.jpg": "/seegypt/static/media/c21.1c0576b9edf62341bbdf.jpg",
+    "static/media/c7.jpg": "/seegypt/static/media/c7.f71aec341589d90dce82.jpg",
+    "static/media/c22.jpg": "/seegypt/static/media/c22.c446f8e618fddeb01884.jpg",
+    "static/media/c15.jpg": "/seegypt/static/media/c15.52710ba49cd762a7c8c4.jpg",
+    "static/media/c12.jpg": "/seegypt/static/media/c12.244d08d05748332527b2.jpg",
+    "static/media/c18.jpg": "/seegypt/static/media/c18.c22c6b2bbe7cc4d47d40.jpg",
+    "static/media/c8.jpg": "/seegypt/static/media/c8.8488009b361d1e1a3c78.jpg",
+    "static/media/c16.jpg": "/seegypt/static/media/c16.0514c5a94a4ff005456e.jpg",
+    "index.html": "/seegypt/index.html",
+    "main.fda86d57.css.map": "/seegypt/static/css/main.fda86d57.css.map",
+    "main.96ebba6f.js.map": "/seegypt/static/js/main.96ebba6f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/seegypt/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda86d57.css",
+    "static/js/main.96ebba6f.js"
+  ]
+}
