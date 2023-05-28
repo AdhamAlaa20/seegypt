@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/seegypt/static/css/main.fda86d57.css",
-    "main.js": "/seegypt/static/js/main.cfbc3ecd.js",
+    "main.js": "/seegypt/static/js/main.ddfa573c.js",
     "static/js/787.c4e7f8f9.chunk.js": "/seegypt/static/js/787.c4e7f8f9.chunk.js",
     "static/media/c25.jpg": "/seegypt/static/media/c25.0d80aa95c81c88a15ec4.jpg",
     "static/media/c3.jpg": "/seegypt/static/media/c3.9d24f67c447b6e0d2723.jpg",
@@ -29,11 +29,11 @@
     "static/media/c16.jpg": "/seegypt/static/media/c16.0514c5a94a4ff005456e.jpg",
     "index.html": "/seegypt/index.html",
     "main.fda86d57.css.map": "/seegypt/static/css/main.fda86d57.css.map",
-    "main.cfbc3ecd.js.map": "/seegypt/static/js/main.cfbc3ecd.js.map",
+    "main.ddfa573c.js.map": "/seegypt/static/js/main.ddfa573c.js.map",
     "787.c4e7f8f9.chunk.js.map": "/seegypt/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fda86d57.css",
-    "static/js/main.cfbc3ecd.js"
+    "static/js/main.ddfa573c.js"
   ]
 }
