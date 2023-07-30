@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/seegypt/static/css/main.fda86d57.css",
-    "main.js": "/seegypt/static/js/main.ddfa573c.js",
+    "main.css": "/seegypt/static/css/main.3ac40116.css",
+    "main.js": "/seegypt/static/js/main.cb2a2c1b.js",
     "static/js/787.c4e7f8f9.chunk.js": "/seegypt/static/js/787.c4e7f8f9.chunk.js",
     "static/media/c25.jpg": "/seegypt/static/media/c25.0d80aa95c81c88a15ec4.jpg",
     "static/media/c3.jpg": "/seegypt/static/media/c3.9d24f67c447b6e0d2723.jpg",
@@ -28,12 +28,12 @@
     "static/media/c8.jpg": "/seegypt/static/media/c8.8488009b361d1e1a3c78.jpg",
     "static/media/c16.jpg": "/seegypt/static/media/c16.0514c5a94a4ff005456e.jpg",
     "index.html": "/seegypt/index.html",
-    "main.fda86d57.css.map": "/seegypt/static/css/main.fda86d57.css.map",
-    "main.ddfa573c.js.map": "/seegypt/static/js/main.ddfa573c.js.map",
+    "main.3ac40116.css.map": "/seegypt/static/css/main.3ac40116.css.map",
+    "main.cb2a2c1b.js.map": "/seegypt/static/js/main.cb2a2c1b.js.map",
     "787.c4e7f8f9.chunk.js.map": "/seegypt/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fda86d57.css",
-    "static/js/main.ddfa573c.js"
+    "static/css/main.3ac40116.css",
+    "static/js/main.cb2a2c1b.js"
   ]
 }
