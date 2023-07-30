@@ -8,6 +8,7 @@ body{
 #navlist {
   background-color:rgb(46, 38, 38);
   width: 100%;
+  list-style-type: none;
 }
 
 /* styling navlist anchor element */
